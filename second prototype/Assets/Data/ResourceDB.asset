@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00918259c8730174795dbb5c6bcd22f3, type: 3}
+  m_Name: ResourceDB
+  m_EditorClassIdentifier: 
+  itemList:
+  - itemType: 0
+    collectableType: 0
+    sprite: {fileID: 0}
+  - itemType: 1
+    collectableType: 0
+    sprite: {fileID: 21300000, guid: e9626aa792f7ed6429898e909f5baf11, type: 3}
+  - itemType: 2
+    collectableType: 0
+    sprite: {fileID: 21300000, guid: 994331b813f91f348b613c4c38187f37, type: 3}
+  - itemType: 3
+    collectableType: 0
+    sprite: {fileID: 21300000, guid: 162fed04f1af80e409d454cfc453f542, type: 3}
+  - itemType: 4
+    collectableType: 1
+    sprite: {fileID: 21300000, guid: 27d228fe34769a2468d3297eaf121866, type: 3}
+  - itemType: 5
+    collectableType: 1
+    sprite: {fileID: 21300000, guid: 49c7322f552cd0542a4c6e734fc734e5, type: 3}
+  - itemType: 6
+    collectableType: 1
+    sprite: {fileID: 21300000, guid: 573b9bd5e84e56748ac9c0b4efad13dc, type: 3}
+  - itemType: 7
+    collectableType: 1
+    sprite: {fileID: 21300000, guid: af08b78c88f74bc42bd1a57327b5dfaa, type: 3}
+  - itemType: 8
+    collectableType: 1
+    sprite: {fileID: 21300000, guid: e0c3f8abf8fc7c14caf6c88a8cd71144, type: 3}
